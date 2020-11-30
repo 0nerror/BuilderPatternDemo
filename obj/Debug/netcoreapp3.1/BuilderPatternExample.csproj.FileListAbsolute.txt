@@ -1,0 +1,13 @@
+F:\Source\Repos\BuilderPatternExample\bin\Debug\netcoreapp3.1\BuilderPatternExample.exe
+F:\Source\Repos\BuilderPatternExample\bin\Debug\netcoreapp3.1\BuilderPatternExample.deps.json
+F:\Source\Repos\BuilderPatternExample\bin\Debug\netcoreapp3.1\BuilderPatternExample.runtimeconfig.json
+F:\Source\Repos\BuilderPatternExample\bin\Debug\netcoreapp3.1\BuilderPatternExample.runtimeconfig.dev.json
+F:\Source\Repos\BuilderPatternExample\bin\Debug\netcoreapp3.1\BuilderPatternExample.dll
+F:\Source\Repos\BuilderPatternExample\bin\Debug\netcoreapp3.1\BuilderPatternExample.pdb
+F:\Source\Repos\BuilderPatternExample\obj\Debug\netcoreapp3.1\BuilderPatternExample.csprojAssemblyReference.cache
+F:\Source\Repos\BuilderPatternExample\obj\Debug\netcoreapp3.1\BuilderPatternExample.AssemblyInfoInputs.cache
+F:\Source\Repos\BuilderPatternExample\obj\Debug\netcoreapp3.1\BuilderPatternExample.AssemblyInfo.cs
+F:\Source\Repos\BuilderPatternExample\obj\Debug\netcoreapp3.1\BuilderPatternExample.csproj.CoreCompileInputs.cache
+F:\Source\Repos\BuilderPatternExample\obj\Debug\netcoreapp3.1\BuilderPatternExample.dll
+F:\Source\Repos\BuilderPatternExample\obj\Debug\netcoreapp3.1\BuilderPatternExample.pdb
+F:\Source\Repos\BuilderPatternExample\obj\Debug\netcoreapp3.1\BuilderPatternExample.genruntimeconfig.cache
